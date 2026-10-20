@@ -1,0 +1,15 @@
+[tools]
+deno = "latest"
+go = "latest"
+java = "21"
+maven = "latest"
+node = "24"
+pnpm = "latest"
+python = "3"
+ruby = "latest"
+rust = "latest"
+usage = "latest"
+wasi-sdk = "latest"
+
+[settings]
+idiomatic_version_file_enable_tools = ["node"]
